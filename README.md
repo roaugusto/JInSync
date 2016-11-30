@@ -54,3 +54,13 @@ Espero que a ferramenta possa ajudar aos profissionais mainframe que sentiram a 
 - poi-ooxml-schemas-3.14-20160307.jar
 - sun.misc.BASE64Decoder.jar
 - xmlbeans-2.6.0.jar
+
+##Donations / Doações
+Make a donation to the project, it's extremely easy, free, fast and safe! 
+
+<p>
+<a 
+href=https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N39LKJ8M7CGL8&lc=BR&item_name=Rodrigo%20Augusto%20Silva%20dos%20Santos&item_number=JInSync&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted>
+  <img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif">
+</a>
+</p>
