@@ -35,7 +35,7 @@ package br.com.jinsync.model;
 
 public class Parameters {
 
-	public static final String version = "3.2";
+	public static final String version = "3.3";
 	
 }
 
