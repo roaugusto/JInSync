@@ -1,21 +1,21 @@
 # JInSync
 Reader book cobol mainframe and some more functions
 
-Working as a mainframe professional since 2002, I realized the missing a tool that would help in reading the information of files EBCDIC and also in the information of the copybooks themselves.
+Working as a mainframe professional since 2002, I realized a certain tool was missing - one that would help me reading the information of files EBCDIC and the information of the copybooks.
 
-This tool was developed with the purpose of facilitating the reading of the COBOL copybook and facilitating the reading of files that use the copybook.
+This tool was developed with the purpose of facilitating the reading of the COBOL copybook and facilitating the reading of the files that use the copybook.
 
 The tool has three functions:
 
 - Copybook: Read the copybook and demonstrate the characteristics of each field, such as data type, initial position and size;
-- String:   Perform the breaking of a String based on the copybook informed, making it easier to read the information;
+- String:   Perform the splitting of a String based on the copybook informed, making it easier to read the information;
 - File:     Read a file in EBCDIC format and break the information.
 
 If you have FTP access, you can also read the mainframe directly. Just fill in the IP and the username and password.
 
-As my main knowledge is mainframe, the source code developed is not as organized as a java professional is accustomed to. I've tried splitting the sources into the MVC structure so it's easy to understand.
+As my main knowledge is mainframe, the source code developed is not as organized as a java professional is accustomed to see it being. I've tried splitting the sources into the MVC structure so it's easy to understand.
 
-I hope the tool can help the mainframe professionals who felt the same need I had.
+I hope this tool can help the mainframe professionals who had the same issues I used to have.
 
 # Third-party libraries
 
