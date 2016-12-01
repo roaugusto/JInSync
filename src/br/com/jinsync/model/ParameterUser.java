@@ -51,7 +51,7 @@ import br.com.jinsync.controller.PasswordSecret;
 public class ParameterUser {
 
 	private static final String userDirProp = System.getProperty("user.dir") + "\\config";
-	private static final String userProp = System.getProperty("user.dir") + "\\config\\usuar.properties";
+	private static final String userProp = System.getProperty("user.dir") + "\\config\\user.properties";
 	
 	private String user;
 	private String password;
