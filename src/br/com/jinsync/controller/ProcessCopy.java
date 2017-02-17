@@ -689,7 +689,7 @@ public class ProcessCopy {
 					while ((Integer.parseInt(seqLine.trim()) <= seqAntGrp.get(indFirstGrp))) {
 						if (qtdGrp.get(indFirstGrp) > 0) {
 							qtdFirstTime = qtdFirstTime / qtdGrp.get(indFirstGrp);
-							if (isRedef) {
+							if (!isRedef) {
 								posStartField = posStartAnt.get(indFirstGrp) + lenGrp.get(posAtuGrp);
 							}
 							indFirstGrp = indFirstGrp - 1;
