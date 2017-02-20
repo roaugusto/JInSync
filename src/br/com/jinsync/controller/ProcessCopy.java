@@ -690,7 +690,9 @@ public class ProcessCopy {
 						if (qtdGrp.get(indFirstGrp) > 0) {
 							qtdFirstTime = qtdFirstTime / qtdGrp.get(indFirstGrp);
 							if (!isRedef) {
+								if (!isEndGrp.get(indFirstGrp)) {
 								posStartField = posStartAnt.get(indFirstGrp) + lenGrp.get(posAtuGrp);
+								}
 							}
 							indFirstGrp = indFirstGrp - 1;
 							posAtuGrp = posAtuGrp - 1;
